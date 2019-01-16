@@ -1,0 +1,2 @@
+# magadir
+magadir ini pun
